@@ -1,0 +1,43 @@
+{
+  "name": "shopify-metafields-manager",
+  "version": "1.0.0",
+  "description": "Export, bulk-import and audit Shopify metafields (products, variants, collections, customers) from the Admin GraphQL API — zero dependencies.",
+  "main": "src/index.js",
+  "bin": {
+    "smm": "bin/smm.js"
+  },
+  "files": [
+    "src",
+    "bin",
+    "README.md",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [
+    "shopify",
+    "shopify-metafields",
+    "metafields",
+    "shopify-admin-api",
+    "graphql",
+    "bulk-import",
+    "shopify-cli",
+    "ecommerce"
+  ],
+  "license": "MIT",
+  "author": "Ecom Swift LLC <support@ecomswiftllc.com>",
+  "homepage": "https://github.com/Ecom-Swift-LLC/shopify-metafields-manager",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ecom-Swift-LLC/shopify-metafields-manager.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Ecom-Swift-LLC/shopify-metafields-manager/issues"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}

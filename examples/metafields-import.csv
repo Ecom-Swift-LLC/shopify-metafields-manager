@@ -1,0 +1,7 @@
+ownerId,handle,label,namespace,key,type,value
+gid://shopify/Product/1001,everyday-tote,Everyday Tote,custom,fabric,single_line_text_field,"Organic cotton canvas, 12oz"
+gid://shopify/Product/1001,everyday-tote,Everyday Tote,custom,care_instructions,multi_line_text_field,"Machine wash cold.
+Line dry."
+gid://shopify/Product/1001,everyday-tote,Everyday Tote,custom,capacity_litres,number_integer,18
+gid://shopify/Product/1002,weekender-duffel,Weekender Duffel,custom,fabric,single_line_text_field,Waxed canvas
+gid://shopify/Product/1002,weekender-duffel,Weekender Duffel,custom,capacity_litres,number_integer,42
